@@ -5,3 +5,5 @@ const num2=20;
 //Declare a function named add that calculates the addition of num1 plus num2
 const add= (num1, num2) => (num1 + num2);
 console.log(add(1,2));
+
+//TODO: Declare substraction, multiplication and division
